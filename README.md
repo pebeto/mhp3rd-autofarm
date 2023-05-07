@@ -1,4 +1,4 @@
-# mhfu-autofarm
+# mhp3rd-autofarm
 A simple python script to automate farming in Monster Hunter Portable 3rd (MHp3rd) in PPSSPP emulator.
 
 ## Implemented features
